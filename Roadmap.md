@@ -2,8 +2,8 @@
 
 | Datum | Task | Status | Notizen |  
 |-------|------|--------|---------|  
-| 25.05 | Stellenanzeigen analysieren & Skills-Matrix erstellen | ☐ | skills\_analysis.md |  
-| 26.05 | Python-Refresher \+ chatbot\_demo.ipynb | ☐ | |  
+| 25.05 | Stellenanzeigen analysieren & Skills-Matrix erstellen | ✅ | skills\_analysis.md |  
+| 26.05 | Python-Refresher \+ chatbot\_demo.ipynb | ✅ | |  
 | 27.05 | Prompt-Experiment \#1 inkl. Auswertung | ☐ | |  
 | 28.05 | CoverLetter-Generator (TypeScript) | ☐ | |  
 | 29.05 | Finetuning-Mini-Projekt  | ☐ | |  
